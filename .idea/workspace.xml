@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa90eddb-8ddb-4339-b33c-521972dec936" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment3Sabi.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onlineshoppingsystem/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onlineshoppingsystem/InventoryManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onlineshoppingsystem/PaymentProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onlineshoppingsystem/ProductCatalog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onlineshoppingsystem/ShippingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onlineshoppingsystem/ShoppingFacade.java" afterDir="false" />
-    </list>
+    <list default="true" id="fa90eddb-8ddb-4339-b33c-521972dec936" name="Changes" comment="ok" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,6 +41,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -72,11 +60,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728755079052</updated>
-      <workItem from="1728755080074" duration="577000" />
+      <workItem from="1728755080074" duration="1080000" />
     </task>
+    <task id="LOCAL-00001" summary="ok">
+      <option name="closed" value="true" />
+      <created>1728755766393</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728755766393</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="ok" />
   </component>
 </project>
