@@ -7,8 +7,8 @@ public class Client {
         ShoppingFacade shoppingFacade = new ShoppingFacade();
 
         // Example of a user order
-        int productId = 2; // User wants to buy a Laptop
-        int quantity = 6;  // User wants to buy 2 Laptops
+        int productId = 2; // User wants to buy divergent book
+        int quantity = 6;  // User wants to buy shatter me book
 
         shoppingFacade.placeOrder(productId, quantity);
 
